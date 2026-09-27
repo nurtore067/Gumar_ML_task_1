@@ -1,0 +1,5 @@
+.DS_Store
+.Gumar_ML_task_1/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
